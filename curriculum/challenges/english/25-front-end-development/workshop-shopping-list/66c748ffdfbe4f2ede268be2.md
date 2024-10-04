@@ -32,7 +32,7 @@ console.log("It will be nice to have some fruit to eat.");
 
 shoppingList.push("Apples");
 
-function getShoppingListMsg() {
+function getShoppingListMsg () {
   return `Current Shopping List: ${shoppingList}`;
 }
 
@@ -80,7 +80,7 @@ console.log("It will be nice to have some fruit to eat.");
 
 shoppingList.push("Apples");
 
-function getShoppingListMsg() {
+function getShoppingListMsg () {
   return `Current Shopping List: ${shoppingList}`;
 }
 
