@@ -1,4 +1,6 @@
 // this ensures node understands the future
+
+// eslint-disable-next-line import/no-extraneous-dependencies
 const createDebugger = require('debug');
 const _ = require('lodash');
 
